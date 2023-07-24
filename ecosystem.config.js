@@ -1,0 +1,25 @@
+module.exports = {
+  apps: [{
+    name: 'api',
+    version: '1.0.0',
+    namespace: 'CashApp',
+    script: 'src/index.js',
+    watch: 'src',
+    ignore_watch: 'logs/',
+    error_file: 'logs/err.log',
+    out_file: 'logs/out.log',
+    log_file: 'logs/combined.log',
+    time: true,
+  }, {
+    name: 'message_notifications',
+    version: '1.0.0',
+    namespace: 'CashApp',
+    script: 'scripts/messageNotifications.js',
+    watch: 'scripts',
+    ignore_watch: 'logs/',
+    error_file: 'logs/err1.log',
+    out_file: 'logs/out2.log',
+    log_file: 'logs/combined3.log',
+    time: true,
+  }],
+};

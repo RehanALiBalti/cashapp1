@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "monymarket-7aca4",
+    "private_key_id": "c96c2fd1a121d5e7b9776acf1ca4f672885711aa",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRikdVP6wl7u97\n6mF27mU9tGgTKNtLOb/VMTHLI6MKH+RNas8YHAw0TW/rp3POEmjkeg0fO7kcmkyE\nPNJ/UBEMXehuucE69rIkIp5jdHq0EzAeJMZO6l4fCf1KCzdB+sk5/FOaLv4QQNGl\nxW4GNFIYk4xze6JMZrwU3ZGP8Pn5cMwMudI5kFp58CwpVQLDJN/8zNjLr+6C0Bwp\n2BKlTGNE0gaQfbudxhkCcboc880Zp9ZmWuhULGF5cjuwAzeArhHS8WUjCRe+KYKV\nG4nzTyvBUHnPIIVT4MxjoMr2Ubq73Q4gpH3aOyVd7stshKWHx1STiuVBQ/wdtJy1\nDn9qApM/AgMBAAECggEAKvHMfqEdIMxSKhRM0hUiFoUHOLATlSzjJ/suICzRzQkA\nCr/7f7e2+i/nWHe+ug3AmbpR6Odshb4Z2eNAkYSEo0uKbDGvjMCCbBsy9VHHax9G\nUX60bVDGmQ4PiSuqEHP5sHx+Br7bBNy7f9iz0Gzb1JilFuZiS3z8/oMqknieqjVm\nb+1rPFiqJP32h7rC/Gyg4MJMldJSZ8nOpG2UIQl7YdAnFLnCLSLFAkE7YG/DnP4A\n0q55lKc+ka30QRQlsruPPxKQCd6bTVg0HTrBKFg74+36xf61zIASC9Cuj1o4VJh6\ncFurLWtdpKJQHM/HhA8ip8Ljoi0MxETuxjznXG3hgQKBgQDFM76WFLce4XHNlvUb\nTE18lUHwi/5enuqcnPo3T+VXHzvRGsGgfAYNTvn24yF0DAIckakfmK96+OhbUGxr\nrTBm48wt/iCQEmBuvaZUnbU6a6/+CVycrE1zvXbHZH8fMMxbj0nkKR7QmuGTQmGS\n0NArrH67iX9QNbTANKXAmVsgXwKBgQC87zkzYiSGbCTwRnnrw6DAFHG13NhmX7J4\n+yNFOx3ceOM3fKkVgcs+SKiyIGOmRl1lGO7w6Je7M3V9k46NQDZyUb7y73Gpe2So\n6T0L/X78lbOQSsNNdehay5DKTQASW73ChZ+amqbJ1yXVIMrSsm3sXZ1eDCp17hEH\n2rlslpn5IQKBgQC1MbNHgSc0956ycacq+vQjqZ0Z4ffKhyg42L/LvNyULX2vx27r\n/6kr50okAFRHpZT3HRuRjaCHVFdjN8U3Nr3HfD2qcNsIpen3Nsiy7OmNEU93ErEG\nwAa2dvrBgOSRCyxqYIFbZDENKZJk1VSEKttrlaYouNDDKWW4SWeXTRF+7wKBgERp\nEnsqhDMwIUfnHOpjUWd7f5jsOGcJK6RmuuSsfSmBlDRZLRgegSsyP/MPi0V/oP2k\nQ5Bzh80+2sH3ldxLbeuC8fMhBDTr+wy2N2aKCVsIEZajm4gGs3V81BaMPwRmt5Uh\nsSLX8KCRCJ/dWdNkzCyT0RFmslE1PHFtn0pUVbhBAoGAQt3ok/jDq20acCMdSV/s\nOAxdPHoszvmn2fGWQ+pkunzTiuGR6kXpZHsphmAt7+3pdz33Sl/oQybL0y0i8N+Z\n/YvxTLKCi4QVR3qzf/1CRg1rtrnKMPjPE/9PeE6KAQGN50GmhcLpV2zcStjxELXn\nAQtrNf2NFv8JeIFJjkoGtOw=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-wwzb2@monymarket-7aca4.iam.gserviceaccount.com",
+    "client_id": "114505841376985082168",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wwzb2%40monymarket-7aca4.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}

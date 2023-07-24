@@ -1,0 +1,22 @@
+{
+  "kycUpdate": {
+    "passed": {
+      "title": "KYC verification approved!",
+      "body": "Your KYC verification has been approved successfully. Visit our app to start making transactions!"
+    },
+    "failed": {
+      "title": "KYC verification failed!",
+      "body": "Your KYC verification has failed. Please visit our app to update your information."
+    }
+  },
+  "transactionUpdate": {
+    "success": {
+      "title": "Transaction approved!",
+      "body": "Your transaction has been approved successfully. Visit our app to start making transactions!"
+    },
+    "failed": {
+      "title": "Transaction failed!",
+      "body": "Your transaction has failed. Please visit our app to review."
+    }
+  }
+}
